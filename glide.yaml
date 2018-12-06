@@ -1,0 +1,5 @@
+import:
+- package: github.com/gorilla/websocket
+  version: a3ec486e6a7a41858210b0fc5d7b5df593b3c4a3
+package: github.com/docker/spdystream
+
